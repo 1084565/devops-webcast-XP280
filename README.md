@@ -4,8 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called XP280 - Combining CI/CD
-with Transports for Speedy and Controlled Delivery.
+This repository contains the material for the "SAP BTP DevOps and Observability in Action - Webcast series".
 
 ## Overview
 
